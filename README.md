@@ -24,4 +24,5 @@ I'm a Data Analyst at Jollify Games and a nocturnal Content Creator.
 - Storytelling
 
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/batuhan-bilge-elersu/)
+
 📧 Reach out via email: batuhanelersu@gmail.com
