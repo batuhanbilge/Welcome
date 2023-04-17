@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a daytime Data Analyst at Jollify Games and a nocturnal Content Creator. I'm passionate about elevating businesses with concise data insights and compelling narratives.
+I'm a Data Analyst at Jollify Games and a nocturnal Content Creator.
 
 ## Technical Skills & Tools 💻
 - Python
