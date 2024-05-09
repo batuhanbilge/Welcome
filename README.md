@@ -5,7 +5,7 @@ My name is Batuhan B. Elersu
 Data Analyst
 ------------
 
-I'm a Data Analyst at Jollify Games and a nocturnal Content Creator.
+I'm a Sr. Data Analyst at RoofStacks and a nocturnal Content Creator.
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [batuhanelersu@gmail.com](mailto:batuhanelersu@gmail.com)
